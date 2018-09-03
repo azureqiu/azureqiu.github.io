@@ -1,0 +1,182 @@
+#container{
+  background-color:#ffffff;
+  width:1200px;
+    height: auto;
+    float: left;
+    border: 1px solid lightgrey;
+    padding: 0 0 50px 200px;
+}
+
+body{
+  background-color:lightpink;
+    margin:0 0 0 20px;
+}
+
+#content{
+ background-color: white;
+}
+
+.grey h6{
+  font-family:Brandon Grotesque;
+  font-weight:lighter;
+  font-size:20px;
+  padding:100px 0px 0px 875px;
+  float:left;
+  color:#bbbbbb;
+}
+
+.grey h2{
+  color:grey;
+  padding:5px 0px 5px 20px;
+  width:60%;
+  float:left;
+}
+
+#heading{
+  padding:20px 0 60px 0;
+  font-family:Brandon Grotesque ;
+    width: 82%
+}
+
+#nav {
+  font-size:10px;
+  margin:0 auto;
+  padding:0 0 14px 20px;
+  
+}
+
+#nav li {
+  display:inline;
+}
+
+#nav a {
+ color:Darkblue;
+ display:inline;
+ padding:7px 182px 7px 30px;
+ float:left;
+}
+
+#nav a:link, #nav a:visited {
+  text-decoration:none;
+  
+}
+
+#nav a.leftitem {
+  border-width:0px 1px 0px 1px;
+  background-color:lightpink;
+}
+
+#nav a.current {
+  background-color:lightpink;
+}
+
+#nav a:hover {
+  background-color:blue;
+  color:yellow;
+}
+
+#jasper{
+  width:80%;
+}
+
+.purple h3{
+  float:left;
+  Font-size:70px;
+  font-family:Brandon Grotesque ;
+  padding:0px 0px 0px 0px;
+  margin:0;
+  font-weight:lighter;
+  color:#a757c4;
+  width:50%;
+  
+}
+
+.purple h6{
+  font-family:Brandon Grotesque;
+  font-weight:lighter;
+  float:right;
+  margin:0 0 0 0;
+  color:#a757c4;
+  padding:40px 0 0 0px;
+}
+
+#jasper img{
+  width: 400px;
+  padding:20px 10px 10px 20px;
+}
+
+.sidebox{
+  float: left;
+  position: static;
+  width: 430px;
+  padding: 0px 10px 20px 0px;
+  border: 1px solid #575757;
+  margin: 20px;
+  margin-top:10px;
+  background-color:black;
+}
+
+#subtitle{
+  color:white;
+  font-family:Helvetica;
+  font-size:10px;
+  text-align:center;
+}
+
+#jasperbox{
+  float:left;
+  width:98%;
+  height:60px;
+  margin:0 20px 0 20px;
+}
+
+.clear{
+  clear:both;
+}
+
+
+#jasper p{
+  font-family:Avenir;
+  float: right;
+  padding:10px 0px 20px 0px;
+  font-size:12px;
+  margin: 0px 0px 0 18px;
+  width: 400px;
+  border-bottom: 1px solid grey;
+}
+
+
+#footer{
+  float:left;
+  background-color:powderblue;
+  margin: 150px 0px 0px 20px;
+  padding: 0px 0px 0px 0px;
+  border: 1px dashed grey;
+}
+
+#footer p{
+    margin: 0;
+}
+
+#footer a:link, #footer a:visited {
+  text-decoration:none;
+  
+}
+
+#footer a.copyright {
+  border-width:0px 0px 0px 0px;
+}
+
+#footer a:hover {
+  background-color:#ffdf05;
+  color:black;
+}
+
+#footer a {
+ color:indianred;
+ float:left;
+ margin: 0px 0px 0px 0px; 
+ padding: 15px 415px 15px 415px;
+ font-family:Brandon Grotesque;
+ font-size:12px;
+}
